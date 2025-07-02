@@ -30,7 +30,7 @@
 
 ## 📡 API Test: Successful Response from `/ask` Endpoint
 
-![Landing Page](MeowgicAI/Screenshot%202025-07-02%20174144.png)
+![Landing Page](MeowgicAI/FastAPI_SS.png)
 
 ## 🗂️ Project Structure
 
