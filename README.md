@@ -31,18 +31,18 @@
 ## 🗂️ Project Structure
 
 MeowgicAI/
-├── app.py # (Optional script version)
-├── meowgic_ui.py # Streamlit frontend
-├── meowgic_api.py # FastAPI backend
-├── retrieval_engine.py # Vector search logic
-├── vectorize_cat_sentences.py # Embedding generator
-├── prepare_sentences.py # Sentence cleaner/tokenizer
-├── vector_data/ # Stored embeddings & sentences
-├── data/
-│ └── cat_data.txt # Raw cat info
-│ └── cat_sentences.txt # Tokenized cat facts
-├── requirements.txt # Dependencies
-└── README.md
+├── app.py # (Optional script version)<br>
+├── meowgic_ui.py # Streamlit frontend<br>
+├── meowgic_api.py # FastAPI backend<br>
+├── retrieval_engine.py # Vector search logic<br>
+├── vectorize_cat_sentences.py # Embedding generator<br>
+├── prepare_sentences.py # Sentence cleaner/tokenizer<br>
+├── vector_data/ # Stored embeddings & sentences<br>
+├── data/<br>
+│ └── cat_data.txt # Raw cat info<br>
+│ └── cat_sentences.txt # Tokenized cat facts<br>
+├── requirements.txt # Dependencies<br>
+└── README.md<br>
 
 
 ---
