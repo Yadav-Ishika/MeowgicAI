@@ -17,7 +17,7 @@
 
 ## 🛠️ Tech Stack
 
-| Layer       | Tools/Libs                              |
+| Layer       | Tools/Libs                               |
 |-------------|------------------------------------------|
 | UI          | Streamlit + HTML/CSS                     |
 | Backend     | FastAPI                                  |
