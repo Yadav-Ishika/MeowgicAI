@@ -28,6 +28,10 @@
 
 ---
 
+## 📡 API Test: Successful Response from `/ask` Endpoint
+
+![Landing Page](MeowgicAI/Screenshot 2025-07-02 174144.png)
+
 ## 🗂️ Project Structure
 
 MeowgicAI/<br>
@@ -86,3 +90,15 @@ uvicorn meowgic_api:app --reload
 ```
 python meowgic_ui.py
 ```
+
+# Conclusion
+This program is currently executing with zero error, so you are good to go with it, **Thank You**
+
+# License
+Apache-2.0 license
+
+# Contact me at
+LinkedIn Account : www.linkedin.com/in/rayyan-ashraf-71117b249<br />
+Instagram Account : @etsrayy<br />
+Email At : ryshashraf@gmail.com
+
