@@ -98,7 +98,5 @@ This program is currently executing with zero error, so you are good to go with 
 Apache-2.0 license
 
 # Contact me at
-LinkedIn Account : www.linkedin.com/in/rayyan-ashraf-71117b249<br />
-Instagram Account : @etsrayy<br />
-Email At : ryshashraf@gmail.com
+Email At : ishikaa.connect@gmail.com
 
