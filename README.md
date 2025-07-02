@@ -30,7 +30,7 @@
 
 ## 🗂️ Project Structure
 
-MeowgicAI/
+MeowgicAI/<br>
 ├── app.py # (Optional script version)<br>
 ├── meowgic_ui.py # Streamlit frontend<br>
 ├── meowgic_api.py # FastAPI backend<br>
@@ -68,3 +68,21 @@ MeowgicAI/
 ```bash
 git clone https://github.com/your-username/MeowgicAI.git
 cd MeowgicAI
+```
+### 2. Install Dependencies
+```
+pip install -r requirements.txt
+```
+### 3.Prepare Data
+```
+python prepare_sentences.py
+python vectorize_cat_sentences.py
+```
+### 4.Run Backend
+```
+uvicorn meowgic_api:app --reload
+```
+### 5.Launch UI
+```
+python meowgic_ui.py
+```
