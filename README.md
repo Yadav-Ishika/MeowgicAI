@@ -21,7 +21,7 @@
 |-------------|------------------------------------------|
 | UI          | Streamlit + HTML/CSS                     |
 | Backend     | FastAPI                                  |
-| NLP Model   | `google/flan-t5-base` / `facebook/bart-large-cnn` |
+| NLP Model   | `google/flan-t5-base`                    |
 | Embedding   | `sentence-transformers/all-MiniLM-L6-v2` |
 | TTS         | `gTTS`                                   |
 | Vector Store| Cosine similarity with NumPy             |
